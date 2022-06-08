@@ -10,6 +10,7 @@
 *.nupkg
 /bin
 /.vs
+/.idea
 /source/CompiledBindings.Core/bin
 /source/CompiledBindings.Core/obj
 /source/WPF/CompiledBindings/obj
